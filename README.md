@@ -86,8 +86,5 @@
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Cyberpunk Setup Animation" />
-  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:1E1B4B,100:0F172A&height=120&section=footer" width="100%"/>
 </div>
