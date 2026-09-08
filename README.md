@@ -78,21 +78,17 @@
 
 ---
 
-### 📊 Real-time Performance & Metrics
+### 🌐 3D Isometric Activity Matrix
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armanranjbar&theme=dracula&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-  <br/><br/>
-  <a href="https://github.com/armanranjbar">
-    <img src="https://github-readme-stats.vercel.app/api?username=armanranjbar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00F5D4&text_color=A5B4FC&icon_color=00F5D4&bg_color=0B0F19" width="49%" />
-  </a>
-  <a href="https://github.com/armanranjbar">
-    <img src="https://streak-stats.demolab.com?user=armanranjbar&theme=tokyonight&hide_border=true&stroke=00F5D4&background=0B0F19&ring=00F5D4&fire=00F5D4&currStreakNum=00F5D4" width="49%" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/armanranjbar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanranjbar&theme=tokyonight&hide_border=true&layout=compact&title_color=00F5D4&text_color=A5B4FC&bg_color=0B0F19" width="55%" />
-  </a>
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=armanranjbar&theme=nord" width="90%" alt="3D Contributions Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="48%" style="border-radius: 8px;" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="48%" style="border-radius: 8px;" alt="Cyberpunk City Animation" />
 </div>
 
 <br/>
