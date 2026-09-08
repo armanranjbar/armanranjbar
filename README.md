@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=250&section=header&text=ARMAN%20RANJBAR&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=Lead%20Game%20Architect%20%E2%80%A2%20Full-Stack%20Systems%20%E2%80%A2%20Bot%20Engineer&descFontSize=19&descAlignY=58&descColor=A78BFA" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:00F5D4&height=250&section=header&text=ARMAN%20RANJBAR&fontSize=52&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=Lead%20Game%20Architect%20%E2%80%A2%20Full-Stack%20Systems%20%E2%80%A2%20Bot%20Engineer&descFontSize=19&descAlignY=58&descColor=A78BFA" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2400&pause=900&color=00F5D4&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9A%94%EF%B8%8F+Architecting+Scalable+2D+MMO+Engines+%26+Assets;%F0%9F%8C%90+Engineering+Resilient+Backends+%26+Microservices;%F0%9F%A4%96+High-Throughput+Telegram+Ecosystems;%F0%9F%94%A5+Stack%3A+Flutter+%7C+Python+%7C+PHP+%7C+MongoDB+%7C+MySQL" alt="Typing Banner" />
@@ -25,8 +25,8 @@
         <img src="https://img.shields.io/badge/Client-Flutter_Engine-blue?style=flat-square"/>
       </p>
       <ul>
-        <li>موتور اختصاصی استراتژی بلادرنگ تاریخی بر پایه Flutter.</li>
-        <li>معماری مقیاس‌پذیر نقشه، استیت‌های همگام و مدیریت کش اسپریت‌ها.</li>
+        <li>Proprietary real-time historical strategy game engine built with Flutter.</li>
+        <li>Scalable tilemap architecture, synchronized state management, and optimized sprite caching.</li>
       </ul>
     </td>
     <td width="50%">
@@ -36,8 +36,8 @@
         <img src="https://img.shields.io/badge/Sensor-Gyro_Tracking-green?style=flat-square"/>
       </p>
       <ul>
-        <li>تجربه تعاملی ۳۶۰ درجه و هدایت فضایی با سنسور ژیروسکوپ.</li>
-        <li>رندرینگ سبک و بهینه‌سازی پردازش گرافیکی در موبایل.</li>
+        <li>Interactive 360° environment with gyroscope-driven spatial navigation.</li>
+        <li>Lightweight rendering pipeline optimized for low-latency mobile GPU performance.</li>
       </ul>
     </td>
   </tr>
@@ -50,8 +50,8 @@
         <img src="https://img.shields.io/badge/Queue-Realtime_Countdown-critical?style=flat-square"/>
       </p>
       <ul>
-        <li>سیستم فروشگاهی خودکار با مکانیزم شمارش معکوس پیش‌خرید روزانه.</li>
-        <li>پایپ‌لاین ترنزکشنال مدیریت سفارش‌ها، لاگ پرداختی‌ها و پنل پاسخگویی دوطرفه ادمین.</li>
+        <li>Automated e-commerce bot featuring daily preorder countdown routines.</li>
+        <li>Transactional order pipelines, payment logging, and two-way admin support forwarding.</li>
       </ul>
     </td>
   </tr>
@@ -86,5 +86,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,6&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:1E1B4B,100:0F172A&height=120&section=footer" width="100%"/>
 </div>
