@@ -1,23 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=ARMAN%20RANJBAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architect%20%26%20Game%20Developer&descFontSize=20&descAlignY=60" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=220&section=header&text=ARMAN%20RANJBAR&fontSize=48&fontColor=00F5D4&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Architect%20%7C%20Game%20Developer%20%7C%20Bot%20Engineer&descFontSize=18&descAlignY=60&descColor=A78BFA" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Crafting+Next-Gen+2D+MMOs+%F0%9F%8E%AE;Building+Scalable+Backends+%26+Bots+%E2%9A%99%EF%B8%8F;Turning+Coffee+into+Clean+Architecture+%E2%98%95" alt="Typing SVG" />
+  <!-- Dynamic Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&height=45&lines=%F0%9F%8E%AE+Building+2D+MMO+Engine+%26+VR+Worlds;%F0%9F%9A%80+Architecting+Scalable+Backends+%26+Telegram+Bots;%E2%9A%A1+Flutter+%7C+Python+%7C+PHP+%7C+MongoDB+%7C+MySQL" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <img src="https://komarev.com/ghpvc/?username=armanranjbar&label=Profile%20Views&color=00f5d4&style=for-the-badge" />
+  </p>
 </div>
 
-### 📊 Stats & Trophies
+---
+
+### 🎮 Featured Projects
+```yaml
+Return of the Kings: Aryan Wars:
+  type: 2D Historical Strategy MMO
+  tech: Flutter, Dart, Custom Sprite Engine, Scalable Backend
+  status: In Active Development ⚔️
+
+Mysterious Village:
+  type: 360° Interactive VR Experience
+  tech: Flutter / Mobile VR Interaction Engine
+
+botnabi Ecosystem:
+  type: High-Throughput E-Commerce Telegram Bot Engine
+  tech: Python, Flask, MongoDB, Multi-channel Pipelines
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<table>
+  <tr>
+<td align="center" width="25%"><b>🎮 Mobile & Game</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
+</td>
+  </tr>
+  <tr>
+<td align="center" width="25%"><b>⚙️ Backend & Logic</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,flask,php,js&theme=dark" />
+</td>
+  </tr>
+  <tr>
+<td align="center" width="25%"><b>🗄️ Database & Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+</td>
+  </tr>
+  <tr>
+<td align="center" width="25%"><b>🧰 Tools & Workflow</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+</td>
+  </tr>
+</table>
+
+---
+
+### 📊 Live Analytics & Activity
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armanranjbar&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=armanranjbar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanranjbar&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=armanranjbar&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=armanranjbar&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00F5D4&text_color=FFFFFF&icon_color=00F5D4&bg_color=0D1117" width="48.5%" />
+  <img src="https://streak-stats.demolab.com?user=armanranjbar&theme=radical&hide_border=true&stroke=00F5D4&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakNum=00F5D4" width="48.5%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanranjbar&theme=radical&hide_border=true&layout=compact&title_color=00F5D4&text_color=FFFFFF&bg_color=0D1117" width="48.5%" />
 </div>
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,php,mysql,mongodb,js,html,css,firebase,androidstudio,git,github" />
-</p>
-
-### 🐍 Activity
+<!-- Footer Wave -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/armanranjbar/armanranjbar/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,6&height=120&section=footer" width="100%"/>
 </div>
