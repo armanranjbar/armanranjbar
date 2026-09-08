@@ -17,7 +17,7 @@
 ---
 
 ### 🎮 Featured Projects
-```yaml
+yaml
 Return of the Kings: Aryan Wars:
   type: 2D Historical Strategy MMO
   tech: Flutter, Dart, Custom Sprite Engine, Scalable Backend
