@@ -12,10 +12,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/armanranjbar/armanranjbar/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-</p>
-
 ---
 
 ### 🕹️ Highlighted Production Systems
@@ -74,6 +70,20 @@
 | **Data & Storage Layer** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark&perline=6" /> |
 | **DevOps & Environment** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark&perline=6" /> |
 
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=armanranjbar&show_icons=true&theme=nightowl&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanranjbar&theme=nightowl&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanranjbar&layout=compact&theme=nightowl&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=armanranjbar&theme=nightowl&no-frame=true&row=1&column=6" height="100"/>
 </div>
 
 ---
